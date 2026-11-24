@@ -3,5 +3,5 @@ terraform {
 }
 
 output "environment" {
-  value = "development"
+  value = "production"
 }
